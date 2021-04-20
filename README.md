@@ -1,1 +1,1 @@
-# Node.js-основы
+# Node.js.Basics of technology
